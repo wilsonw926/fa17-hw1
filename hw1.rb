@@ -1,5 +1,7 @@
 def squared_sum(a, b)
   # Q1 CODE HERE
+  sum = a + b
+  return sum ** 2
 
 end
 
